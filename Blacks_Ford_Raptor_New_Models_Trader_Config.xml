@@ -1,0 +1,321 @@
+<Category> Blacks FordRaptor New Models
+Blacks_FordRaptor_Torncargo2,		      v,		3000000,	2400000
+Blacks_FordRaptor_STAND,		          v,		3000000,	2400000
+Blacks_FordRaptor_Groot2,		          v,		3000000,	2400000
+Blacks_FordRaptor_Groot,		          v,		3000000,	2400000
+Blacks_FordRaptor_Clawz,		          v,		3000000,	2400000
+Blacks_FordRaptor_Dragon,		          v,		3000000,	2400000
+Blacks_FordRaptor_UnCiv,		          v,		3000000,	2400000
+Blacks_FordRaptor_Solar,		          v,		3000000,	2400000
+Blacks_FordRaptor_Arrow,		          v,		3000000,	2400000
+Blacks_FordRaptor_Lightning,		      v,		3000000,	2400000
+Blacks_FordRaptor_Swoosh,		          v,		3000000,	2400000
+
+<Category> Blacks FordRaptor Solar Parts
+
+      Blacks_FordRaptor_Solar_driver ,			 *,			2000,	4000
+      Blacks_FordRaptor_Solar_codriver ,		 *,			2000,	4000
+      Blacks_FordRaptor_Solar_cargo1 ,			 *,			2000,	4000
+      Blacks_FordRaptor_Solar_cargo2,			 *,			2000,	4000
+      Blacks_FordRaptor_Solar_trunk,			 *,			2000,	4000
+      Blacks_FordRaptor_Solar_hood,			     *,			2000,	4000
+      Blacks_FordRaptor_Solar_Wheel,			 *,			2000,	4000
+
+<Category> Blacks FordRaptor Arrow Parts
+
+      Blacks_FordRaptor_Arrow_driver ,			 *,			2000,	4000
+      Blacks_FordRaptor_Arrow_codriver ,		 *,			2000,	4000
+      Blacks_FordRaptor_Arrow_cargo1 ,			 *,			2000,	4000
+      Blacks_FordRaptor_Arrow_cargo2,			 *,			2000,	4000
+      Blacks_FordRaptor_Arrow_trunk,			 *,			2000,	4000
+      Blacks_FordRaptor_Arrow_hood,			     *,			2000,	4000
+      Blacks_FordRaptor_Arrow_Wheel,			 *,			2000,	4000
+
+<Category> Blacks FordRaptor Lightning Parts
+
+      Blacks_FordRaptor_Lightning_driver ,		 *,			2000,	4000
+      Blacks_FordRaptor_Lightning_codriver ,	 *,			2000,	4000
+      Blacks_FordRaptor_Lightning_cargo1 ,		 *,			2000,	4000
+      Blacks_FordRaptor_Lightning_cargo2,		 *,			2000,	4000
+      Blacks_FordRaptor_Lightning_trunk,		 *,			2000,	4000
+      Blacks_FordRaptor_Lightning_hood,			 *,			2000,	4000
+      Blacks_FordRaptor_Lightning_Wheel,		 *,			2000,	4000
+
+<Category>  Blacks FordRaptor Swoosh Parts
+
+      Blacks_FordRaptor_Swoosh_driver ,			 *,			2000,	4000
+      Blacks_FordRaptor_Swoosh_codriver ,		 *,			2000,	4000
+      Blacks_FordRaptor_Swoosh_cargo1 ,			 *,			2000,	4000
+      Blacks_FordRaptor_Swoosh_cargo2,			 *,			2000,	4000
+      Blacks_FordRaptor_Swoosh_trunk,			 *,			2000,	4000
+      Blacks_FordRaptor_Swoosh_hood,			 *,			2000,	4000
+
+<Category> Blacks FordRaptor Torn Parts
+
+      Blacks_FordRaptor_Torn_driver ,			 *,			2000,	4000
+      Blacks_FordRaptor_Torn_codriver ,			 *,			2000,	4000
+      Blacks_FordRaptor_Torn_cargo1 ,			 *,			2000,	4000
+      Blacks_FordRaptor_Torn_cargo2,			 *,			2000,	4000
+      Blacks_FordRaptor_Torn_trunk,			     *,			2000,	4000
+      Blacks_FordRaptor_Torn_hood,			     *,			2000,	4000
+      Blacks_FordRaptor_Torn_Wheel,			     *,			2000,	4000
+
+<Category>  Blacks FordRaptor STAND Parts
+
+      Blacks_FordRaptor_STAND_driver ,			 *,			2000,	4000
+      Blacks_FordRaptor_STAND_codriver ,		 *,			2000,	4000
+      Blacks_FordRaptor_STAND_cargo1 ,			 *,			2000,	4000
+      Blacks_FordRaptor_STAND_cargo2,			 *,			2000,	4000
+      Blacks_FordRaptor_STAND_trunk,			 *,			2000,	4000
+      Blacks_FordRaptor_STAND_hood,			     *,			2000,	4000
+      Blacks_FordRaptor_STAND_Wheel,			 *,			2000,	400
+
+<Category> Blacks FordRaptor Groot Parts
+
+      Blacks_FordRaptor_Groot_driver ,			 *,			2000,	4000
+      Blacks_FordRaptor_Groot_codriver ,		 *,			2000,	4000
+      Blacks_FordRaptor_Groot_cargo1 ,			 *,			2000,	4000
+      Blacks_FordRaptor_Groot_cargo2,			 *,			2000,	4000
+      Blacks_FordRaptor_Groot_trunk,			 *,			2000,	4000
+      Blacks_FordRaptor_Groot_hood,			     *,			2000,	4000
+      Blacks_FordRaptor_Groot_Wheel,			 *,			2000,	4000
+
+<Category>  Blacks FordRaptor Groot2 Parts
+
+      Blacks_FordRaptor_Groot2_driver ,			 *,			2000,	4000
+      Blacks_FordRaptor_Groot2_codriver ,		 *,			2000,	4000
+      Blacks_FordRaptor_Groot2_cargo1 ,			 *,			2000,	4000
+      Blacks_FordRaptor_Groot2_cargo2,			 *,			2000,	4000
+      Blacks_FordRaptor_Groot2_trunk,			 *,			2000,	4000
+      Blacks_FordRaptor_Groot2_hood,			 *,			2000,	4000
+      Blacks_FordRaptor_Groot2_Wheel,			 *,			2000,	4000
+
+<Category> Blacks FordRaptor Clawz Parts
+
+      Blacks_FordRaptor_Clawz_driver ,			 *,			2000,	4000
+      Blacks_FordRaptor_Clawz_codriver ,	     *,			2000,	4000
+      Blacks_FordRaptor_Clawz_cargo1 ,			 *,			2000,	4000
+      Blacks_FordRaptor_Clawz_cargo2,			 *,			2000,	4000
+      Blacks_FordRaptor_Clawz_trunk,			 *,			2000,	4000
+      Blacks_FordRaptor_Clawz_hood,			     *,			2000,	4000
+      Blacks_FordRaptor_Clawz_Wheel,			 *,			2000,	4000
+
+<Category> Blacks FordRaptor Dragon Parts
+
+      Blacks_FordRaptor_Dragon_driver ,			 *,			2000,	4000
+      Blacks_FordRaptor_Dragon_codriver ,		 *,			2000,	4000
+      Blacks_FordRaptor_Dragon_cargo1 ,			 *,			2000,	4000
+      Blacks_FordRaptor_Dragon_cargo2,			 *,			2000,	4000
+      Blacks_FordRaptor_Dragon_trunk,			 *,			2000,	4000
+      Blacks_FordRaptor_Dragon_hood,			 *,			2000,	4000
+      Blacks_FordRaptor_Dragon_Wheel,			 *,			2000,	4000
+
+<Category> Blacks FordRaptor UnCiv Parts
+
+      Blacks_FordRaptor_UnCiv_driver ,			 *,			2000,	4000
+      Blacks_FordRaptor_UnCiv_codriver ,	     *,			2000,	4000
+      Blacks_FordRaptor_UnCiv_cargo1 ,			 *,			2000,	4000
+      Blacks_FordRaptor_UnCiv_cargo2,			 *,			2000,	4000
+      Blacks_FordRaptor_UnCiv_trunk,			 *,			2000,	4000
+      Blacks_FordRaptor_UnCiv_hood,			     *,			2000,	4000
+      Blacks_FordRaptor_UnCiv_Wheel,			 *,			2000,	4000
+
+
+Add this below to your TraderVehicleParts.txt
+<VehicleParts> Blacks_FordRaptor_Solar
+SparkPlug
+CarBattery
+CarRadiator
+HeadlightH7
+HeadlightH7
+Blacks_FordRaptor_Solar_driver
+Blacks_FordRaptor_Solar_codriver
+Blacks_FordRaptor_Solar_cargo1
+Blacks_FordRaptor_Solar_cargo2
+Blacks_FordRaptor_Solar_trunk
+Blacks_FordRaptor_Solar_hood
+Blacks_FordRaptor_Solar_Wheel
+Blacks_FordRaptor_Solar_Wheel
+Blacks_FordRaptor_Solar_Wheel
+Blacks_FordRaptor_Solar_Wheel
+Blacks_FordRaptor_Solar_Wheel
+
+<VehicleParts> Blacks_FordRaptor_Arrow
+SparkPlug
+CarBattery
+CarRadiator
+HeadlightH7
+HeadlightH7
+Blacks_FordRaptor_Arrow_driver
+Blacks_FordRaptor_Arrow_codriver
+Blacks_FordRaptor_Arrow_cargo1
+Blacks_FordRaptor_Arrow_cargo2
+Blacks_FordRaptor_Arrow_trunk
+Blacks_FordRaptor_Arrow_hood
+Blacks_FordRaptor_Arrow_Wheel
+Blacks_FordRaptor_Arrow_Wheel
+Blacks_FordRaptor_Arrow_Wheel
+Blacks_FordRaptor_Arrow_Wheel
+Blacks_FordRaptor_Arrow_Wheel
+
+<VehicleParts> Blacks_FordRaptor_Lightning
+SparkPlug
+CarBattery
+CarRadiator
+HeadlightH7
+HeadlightH7
+Blacks_FordRaptor_Lightning_driver
+Blacks_FordRaptor_Lightning_codriver
+Blacks_FordRaptor_Lightning_cargo1
+Blacks_FordRaptor_Lightning_cargo2
+Blacks_FordRaptor_Lightning_trunk
+Blacks_FordRaptor_Lightning_hood
+Blacks_FordRaptor_Lightning_Wheel
+Blacks_FordRaptor_Lightning_Wheel
+Blacks_FordRaptor_Lightning_Wheel
+Blacks_FordRaptor_Lightning_Wheel
+Blacks_FordRaptor_Lightning_Wheel
+
+<VehicleParts> Blacks_FordRaptor_Swoosh
+SparkPlug
+CarBattery
+CarRadiator
+HeadlightH7
+HeadlightH7
+Blacks_FordRaptor_Swoosh_driver
+Blacks_FordRaptor_Swoosh_codriver
+Blacks_FordRaptor_Swoosh_cargo1
+Blacks_FordRaptor_Swoosh_cargo2
+Blacks_FordRaptor_Swoosh_trunk
+Blacks_FordRaptor_Swoosh_hood
+Blacks_FordRaptor_Solar_Wheel
+Blacks_FordRaptor_Solar_Wheel
+Blacks_FordRaptor_Solar_Wheel
+Blacks_FordRaptor_Solar_Wheel
+Blacks_FordRaptor_Solar_Wheel
+
+<VehicleParts> Blacks_FordRaptor_Torn
+SparkPlug
+CarBattery
+CarRadiator
+HeadlightH7
+HeadlightH7
+Blacks_FordRaptor_Torn_driver
+Blacks_FordRaptor_Torn_codriver
+Blacks_FordRaptor_Torn_cargo1
+Blacks_FordRaptor_Torn_cargo2
+Blacks_FordRaptor_Torn_trunk
+Blacks_FordRaptor_Torn_hood
+Blacks_FordRaptor_Torn_Wheel
+Blacks_FordRaptor_Torn_Wheel
+Blacks_FordRaptor_Torn_Wheel
+Blacks_FordRaptor_Torn_Wheel
+Blacks_FordRaptor_Torn_Wheel
+
+<VehicleParts> Blacks_FordRaptor_STAND
+SparkPlug
+CarBattery
+CarRadiator
+HeadlightH7
+HeadlightH7
+Blacks_FordRaptor_STAND_driver
+Blacks_FordRaptor_STAND_codriver
+Blacks_FordRaptor_STAND_cargo1
+Blacks_FordRaptor_STAND_cargo2
+Blacks_FordRaptor_STAND_trunk
+Blacks_FordRaptor_STAND_hood
+Blacks_FordRaptor_STAND_Wheel
+Blacks_FordRaptor_STAND_Wheel
+Blacks_FordRaptor_STAND_Wheel
+Blacks_FordRaptor_STAND_Wheel
+Blacks_FordRaptor_STAND_Wheel
+
+<VehicleParts> Blacks_FordRaptor_Groot
+SparkPlug
+CarBattery
+CarRadiator
+HeadlightH7
+HeadlightH7
+Blacks_FordRaptor_Groot_driver
+Blacks_FordRaptor_Groot_codriver
+Blacks_FordRaptor_Groot_cargo1
+Blacks_FordRaptor_Groot_cargo2
+Blacks_FordRaptor_Groot_trunk
+Blacks_FordRaptor_Groot_hood
+Blacks_FordRaptor_Groot_Wheel
+Blacks_FordRaptor_Groot_Wheel
+Blacks_FordRaptor_Groot_Wheel
+Blacks_FordRaptor_Groot_Wheel
+Blacks_FordRaptor_Groot_Wheel
+
+<VehicleParts> Blacks_FordRaptor_Groot2
+SparkPlug
+CarBattery
+CarRadiator
+HeadlightH7
+HeadlightH7
+Blacks_FordRaptor_Groot2_driver
+Blacks_FordRaptor_Groot2_codriver
+Blacks_FordRaptor_Groot2_cargo1
+Blacks_FordRaptor_Groot2_cargo2
+Blacks_FordRaptor_Groot2_trunk
+Blacks_FordRaptor_Groot2_hood
+Blacks_FordRaptor_Groot2_Wheel
+Blacks_FordRaptor_Groot2_Wheel
+Blacks_FordRaptor_Groot2_Wheel
+Blacks_FordRaptor_Groot2_Wheel
+Blacks_FordRaptor_Groot2_Wheel
+
+<VehicleParts> Blacks_FordRaptor_Clawz
+SparkPlug
+CarBattery
+CarRadiator
+HeadlightH7
+HeadlightH7
+Blacks_FordRaptor_Clawz_driver
+Blacks_FordRaptor_Clawz_codriver
+Blacks_FordRaptor_Clawz_cargo1
+Blacks_FordRaptor_Clawz_cargo2
+Blacks_FordRaptor_Clawz_trunk
+Blacks_FordRaptor_Clawz_hood
+Blacks_FordRaptor_Clawz_Wheel
+Blacks_FordRaptor_Clawz_Wheel
+Blacks_FordRaptor_Clawz_Wheel
+Blacks_FordRaptor_Clawz_Wheel
+Blacks_FordRaptor_Clawz_Wheel
+
+<VehicleParts> Blacks_FordRaptor_Dragon
+SparkPlug
+CarBattery
+CarRadiator
+HeadlightH7
+HeadlightH7
+Blacks_FordRaptor_Dragon_driver
+Blacks_FordRaptor_Dragon_codriver
+Blacks_FordRaptor_Dragon_cargo1
+Blacks_FordRaptor_Dragon_cargo2
+Blacks_FordRaptor_Dragon_trunk
+Blacks_FordRaptor_Dragon_hood
+Blacks_FordRaptor_Dragon_Wheel
+Blacks_FordRaptor_Dragon_Wheel
+Blacks_FordRaptor_Dragon_Wheel
+Blacks_FordRaptor_Dragon_Wheel
+Blacks_FordRaptor_Dragon_Wheel
+
+<VehicleParts> Blacks_FordRaptor_UnCiv
+SparkPlug
+CarBattery
+CarRadiator
+HeadlightH7
+HeadlightH7
+Blacks_FordRaptor_UnCiv_driver
+Blacks_FordRaptor_UnCiv_codriver
+Blacks_FordRaptor_UnCiv_cargo1
+Blacks_FordRaptor_UnCiv_cargo2
+Blacks_FordRaptor_UnCiv_trunk
+Blacks_FordRaptor_UnCiv_hood
+Blacks_FordRaptor_UnCiv_Wheel
+Blacks_FordRaptor_UnCiv_Wheel
+Blacks_FordRaptor_UnCiv_Wheel
+Blacks_FordRaptor_UnCiv_Wheel
+Blacks_FordRaptor_UnCiv_Wheel

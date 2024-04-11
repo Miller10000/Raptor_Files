@@ -1,0 +1,39 @@
+
+Put this inside TraderVehicleParts.txt
+	<VehicleParts> Kitty_FordRaptor
+	GlowPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Kitty_FordRaptor_driver
+    Kitty_FordRaptor_codriver
+    Kitty_FordRaptor_cargo1
+    Kitty_FordRaptor_cargo2
+    Kitty_FordRaptor_trunk
+    Kitty_FordRaptor_hood
+    Kitty_FordRaptor_Wheel
+	Kitty_FordRaptor_Wheel
+	Kitty_FordRaptor_Wheel
+	Kitty_FordRaptor_Wheel
+	Kitty_FordRaptor_Wheel
+    Blacks_Barrel_DBNRaptor_HKitty
+    Blacks_SeaChest_DBNRaptor_HKitty
+	
+	
+	<Trader> Vehicles Trader
+	
+	 <Category> Kitty Raptor
+	 
+	 Kitty_FordRaptor,                  		V,      350000,   150000
+	
+	<Category> Kitty_FordRaptor VehicleParts
+		
+	Kitty_FordRaptor_driver,                  	*,      800,   200
+    Kitty_FordRaptor_codriver,                  	*,      800,   200
+    Kitty_FordRaptor_cargo1,                  	*,      800,   200
+    Kitty_FordRaptor_cargo2,                  	*,      800,   200
+    Kitty_FordRaptor_trunk,                  	*,      800,   200
+    Kitty_FordRaptor_hood,                  	*,      800,   200
+    Kitty_FordRaptor_Wheel,                  	*,      800,   200 
+	

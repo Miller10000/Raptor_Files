@@ -1,0 +1,110 @@
+{
+  "m_Version": 12,
+  "DisplayName": "BLACKS FORDRaptorAT ATTACHMENTS",
+  "Icon": "Deliver",
+  "Color": "00FBFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "Blacks_SeaChest_DBNRaptorAT40",
+      "MaxPriceThreshold": 60,
+      "MinPriceThreshold": 60,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Blacks_SeaChest_DBNRaptorAT_HKitty",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Blacks_SeaChest_DBNRaptorATC000",
+      "MaxPriceThreshold": 400,
+      "MinPriceThreshold": 400,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Blacks_SeaChest_DBNRaptorATC001",
+        "Blacks_SeaChest_DBNRaptorATC002",
+        "Blacks_SeaChest_DBNRaptorATC003",
+        "Blacks_SeaChest_DBNRaptorATC004",
+        "Blacks_SeaChest_DBNRaptorATC005",
+        "Blacks_SeaChest_DBNRaptorATC006",
+        "Blacks_SeaChest_DBNRaptorATC007",
+        "Blacks_SeaChest_DBNRaptorATC008",
+        "Blacks_SeaChest_DBNRaptorATC009",
+        "Blacks_SeaChest_DBNRaptorATC010",
+        "Blacks_SeaChest_DBNRaptorATC011",
+        "Blacks_SeaChest_DBNRaptorATC012",
+        "Blacks_SeaChest_DBNRaptorATC013"
+      ]
+    },
+    {
+      "ClassName": "Blacks_Barrel_DBNRaptorAT40",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Blacks_Barrel_DBNRaptorAT257",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Blacks_Barrel_DBNRaptorAT_HKitty",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Blacks_Barrel_DBNRaptorATC000",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Blacks_Barrel_DBNRaptorATC001",
+        "Blacks_Barrel_DBNRaptorATC002",
+        "Blacks_Barrel_DBNRaptorATC003",
+        "Blacks_Barrel_DBNRaptorATC004",
+        "Blacks_Barrel_DBNRaptorATC005",
+        "Blacks_Barrel_DBNRaptorATC006",
+        "Blacks_Barrel_DBNRaptorATC007",
+        "Blacks_Barrel_DBNRaptorATC008",
+        "Blacks_Barrel_DBNRaptorATC009",
+        "Blacks_Barrel_DBNRaptorATC010",
+        "Blacks_Barrel_DBNRaptorATC011",
+        "Blacks_Barrel_DBNRaptorATC012",
+        "Blacks_Barrel_DBNRaptorATC013"
+      ]
+    }
+  ]
+}

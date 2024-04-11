@@ -1,0 +1,260 @@
+<Trader> BRTX Manual Raptor
+	<Category> Raptor M
+		Blacks_FordRaptor_Camo40,                     	VNK,      		800000,   80000 
+		
+		Blacks_FordRaptor_Camo40_driver,           		 *,      		800,   200
+		Blacks_FordRaptor_Camo40_codriver,         		 *,      		800,   200
+		Blacks_FordRaptor_Camo40_cargo1,           		 *,      		800,   200
+		Blacks_FordRaptor_Camo40_cargo2,           		 *,      		800,   200
+		Blacks_FordRaptor_Camo40_trunk,            		 *,      		800,   200
+		Blacks_FordRaptor_Camo40_hood,             		 *,      		800,   200
+		Blacks_FordRaptor_Camo40_Wheel,            		 *,      		800,   200
+		
+        	Blacks_FordRaptor_Camo257,                  		VNK,      		800000,   80000 
+
+		Blacks_FordRaptor_Camo257_driver,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo257_codriver,        		 *,      		800,   200
+		Blacks_FordRaptor_Camo257_cargo1,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo257_cargo2,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo257_hood,            		 *,      		800,   200
+		Blacks_FordRaptor_Camo257_trunk,           		 *,      		800,   200
+		Blacks_FordRaptor_Camo257_Wheel,           		 *,      		800,   200 
+		
+		Blacks_FordRaptor_Camo000,                  		VNK,      		800000,   80000
+		
+		Blacks_FordRaptor_Camo000_driver,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo000_codriver,        		 *,      		800,   200
+		Blacks_FordRaptor_Camo000_cargo1,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo000_cargo2,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo000_trunk,           		 *,      		800,   200
+		Blacks_FordRaptor_Camo000_hood,            		 *,      		800,   200
+		Blacks_FordRaptor_Camo000_Wheel,           		 *,      		800,   200
+
+		Blacks_FordRaptor_Camo001,                  		VNK,      		800000,   80000
+		
+		Blacks_FordRaptor_Camo001_driver,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo001_codriver,        		 *,      		800,   200
+		Blacks_FordRaptor_Camo001_cargo1,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo001_cargo2,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo001_trunk,           		 *,      		800,   200
+		Blacks_FordRaptor_Camo001_hood,            		 *,      		800,   200
+		Blacks_FordRaptor_Camo001_Wheel,           		 *,      		800,   200
+
+		Blacks_FordRaptor_Camo002,                  		VNK,      		800000,   80000
+		
+		Blacks_FordRaptor_Camo002_driver,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo002_codriver,        		 *,      		800,   200
+		Blacks_FordRaptor_Camo002_cargo1,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo002_cargo2,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo002_trunk,           		 *,      		800,   200
+		Blacks_FordRaptor_Camo002_hood,            		 *,      		800,   200
+		Blacks_FordRaptor_Camo002_Wheel,           		 *,      		800,   200
+
+		Blacks_FordRaptor_Camo003,                  		VNK,      		800000,   80000
+		
+		Blacks_FordRaptor_Camo003_driver,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo003_codriver,        		 *,      		800,   200
+		Blacks_FordRaptor_Camo003_cargo1,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo003_cargo2,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo003_trunk,           		 *,      		800,   200
+		Blacks_FordRaptor_Camo003_hood,            		 *,      		800,   200
+		Blacks_FordRaptor_Camo003_Wheel,           		 *,      		800,   200
+
+		Blacks_FordRaptor_Camo004,                  		VNK,      		800000,   80000
+		
+		Blacks_FordRaptor_Camo004_driver,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo004_codriver,        		 *,      		800,   200
+		Blacks_FordRaptor_Camo004_cargo1,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo004_cargo2,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo004_trunk,           		 *,      		800,   200
+		Blacks_FordRaptor_Camo004_hood,            		 *,      		800,   200
+		Blacks_FordRaptor_Camo004_Wheel,           		 *,      		800,   200
+
+		Blacks_FordRaptor_Camo006,                  		VNK,      		800000,   80000
+		
+		Blacks_FordRaptor_Camo006_driver,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo006_codriver,        		 *,      		800,   200
+		Blacks_FordRaptor_Camo006_cargo1,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo006_cargo2,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo006_trunk,           		 *,      		800,   200
+		Blacks_FordRaptor_Camo006_hood,            		 *,      		800,   200
+		Blacks_FordRaptor_Camo006_Wheel,           		 *,      		800,   200
+
+		Blacks_FordRaptor_Camo007,                  		VNK,      		800000,   80000
+		
+		Blacks_FordRaptor_Camo007_driver,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo007_codriver,        		 *,      		800,   200
+		Blacks_FordRaptor_Camo007_cargo1,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo007_cargo2,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo007_trunk,           		 *,      		800,   200
+		Blacks_FordRaptor_Camo007_hood,            		 *,     		800,   200
+		Blacks_FordRaptor_Camo007_Wheel,           		 *,      		800,   200
+
+		Blacks_FordRaptor_Camo008,                  		VNK,      		800000,   80000
+		
+		Blacks_FordRaptor_Camo008_driver,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo008_codriver,        		 *,      		800,   200
+		Blacks_FordRaptor_Camo008_cargo1,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo008_cargo2,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo008_trunk,           		 *,      		800,   200
+		Blacks_FordRaptor_Camo008_hood,            		 *,      		800,   200
+		Blacks_FordRaptor_Camo008_Wheel,           		 *,      		800,   200
+
+		Blacks_FordRaptor_Camo009,                  		VNK,      		800000,   80000
+		
+		Blacks_FordRaptor_Camo009_driver,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo009_codriver,        		 *,      		800,   200
+		Blacks_FordRaptor_Camo009_cargo1,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo009_cargo2,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo009_trunk,           		 *,      		800,   200
+		Blacks_FordRaptor_Camo009_hood,            		 *,      		800,   200
+		Blacks_FordRaptor_Camo009_Wheel,           		 *,      		800,   200
+
+		Blacks_FordRaptor_Camo010,                  		VNK,      		800000,   80000
+		
+		Blacks_FordRaptor_Camo010_driver,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo010_codriver,        		 *,      		800,   200
+		Blacks_FordRaptor_Camo010_cargo1,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo010_cargo2,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo010_trunk,           		 *,      		800,   200
+		Blacks_FordRaptor_Camo010_hood,            		 *,      		800,   200
+		Blacks_FordRaptor_Camo010_Wheel,           		 *,      		800,   200
+
+		Blacks_FordRaptor_Camo011,                  		VNK,      		800000,   80000
+		
+		Blacks_FordRaptor_Camo011_driver,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo011_codriver,        		 *,      		800,   200
+		Blacks_FordRaptor_Camo011_cargo1,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo011_cargo2,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo011_trunk,           		 *,      		800,   200
+		Blacks_FordRaptor_Camo011_hood,            		 *,      		800,   200
+		Blacks_FordRaptor_Camo011_Wheel,           		 *,      		800,   200
+
+		Blacks_FordRaptor_Camo012,                  		VNK,      		800000,   80000
+		
+		Blacks_FordRaptor_Camo012_driver,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo012_codriver,        		 *,      		800,   200
+		Blacks_FordRaptor_Camo012_cargo1,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo012_cargo2,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo012_trunk,           		 *,      		800,   200
+		Blacks_FordRaptor_Camo012_hood,            		 *,      		800,   200
+		Blacks_FordRaptor_Camo012_Wheel,           		 *,      		800,   200
+
+		Blacks_FordRaptor_Camo013,                  		VNK,      		800000,   80000
+		
+		Blacks_FordRaptor_Camo013_driver,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo013_codriver,        		 *,      		800,   200
+		Blacks_FordRaptor_Camo013_cargo1,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo013_cargo2,          		 *,      		800,   200
+		Blacks_FordRaptor_Camo013_trunk,           		 *,      		800,   200
+		Blacks_FordRaptor_Camo013_hood,            		 *,      		800,   200
+		Blacks_FordRaptor_Camo013_Wheel,           		 *,      		800,   200
+		
+		Blacks_FordRaptor_Torn,                     		VNK,      		800000,   80000 
+		
+		Blacks_FordRaptor_Torn_driver ,			 *,			800,	200
+        	Blacks_FordRaptor_Torn_codriver ,			 *,			800,	200
+        	Blacks_FordRaptor_Torn_cargo1 ,			 *,			800,	200
+        	Blacks_FordRaptor_Torn_cargo2,			 *,			800,	200
+        	Blacks_FordRaptor_Torn_trunk,			     	 *,			800,	200
+        	Blacks_FordRaptor_Torn_hood,			     	 *,			800,	200
+        	Blacks_FordRaptor_Torn_Wheel,			     	 *,			800,	200
+		
+        	Blacks_FordRaptor_STAND,                  		VNK,      		800000,   80000 
+
+		Blacks_FordRaptor_STAND_driver ,			 *,			800,	200
+        	Blacks_FordRaptor_STAND_codriver ,		 	 *,			800,	200
+        	Blacks_FordRaptor_STAND_cargo1 ,			 *,			800,	200
+        	Blacks_FordRaptor_STAND_cargo2,			 *,			800,	200
+        	Blacks_FordRaptor_STAND_trunk,			 *,			800,	200
+        	Blacks_FordRaptor_STAND_hood,			     	 *,			800,	200
+        	Blacks_FordRaptor_STAND_Wheel,			 *,			2000,	400
+		
+		Blacks_FordRaptor_Groot2,                  		VNK,      		800000,   80000
+		
+		Blacks_FordRaptor_Groot2_driver ,			 *,			800,	200
+        	Blacks_FordRaptor_Groot2_codriver ,		 	 *,			800,	200
+        	Blacks_FordRaptor_Groot2_cargo1 ,			 *,			800,	200
+        	Blacks_FordRaptor_Groot2_cargo2,			 *,			800,	200
+        	Blacks_FordRaptor_Groot2_trunk,			 *,			800,	200
+        	Blacks_FordRaptor_Groot2_hood,			 *,			800,	200
+        	Blacks_FordRaptor_Groot2_Wheel,			 *,			800,	200
+
+		Blacks_FordRaptor_Groot,                  		VNK,      		800000,   80000
+		
+		Blacks_FordRaptor_Groot_driver ,			 *,			800,	200
+        	Blacks_FordRaptor_Groot_codriver ,		 	 *,			800,	200
+       	 	Blacks_FordRaptor_Groot_cargo1 ,			 *,			800,	200
+        	Blacks_FordRaptor_Groot_cargo2,			 *,			800,	200
+        	Blacks_FordRaptor_Groot_trunk,			 *,			800,	200
+        	Blacks_FordRaptor_Groot_hood,			     	 *,			800,	200
+        	Blacks_FordRaptor_Groot_Wheel,			 *,			800,	200
+
+		Blacks_FordRaptor_Clawz,                  		VNK,      		800000,   80000
+		
+		Blacks_FordRaptor_Clawz_driver ,			 *,			800,	200
+        	Blacks_FordRaptor_Clawz_codriver ,	     		 *,			800,	200
+        	Blacks_FordRaptor_Clawz_cargo1 ,			 *,			800,	200
+        	Blacks_FordRaptor_Clawz_cargo2,			 *,			800,	200
+        	Blacks_FordRaptor_Clawz_trunk,			 *,			800,	200
+        	Blacks_FordRaptor_Clawz_hood,			     	 *,			800,	200
+        	Blacks_FordRaptor_Clawz_Wheel,			 *,			800,	200
+
+		Blacks_FordRaptor_Dragon,                  		VNK,      		800000,   80000
+		
+		Blacks_FordRaptor_Dragon_driver ,			 *,			800,	200
+        	Blacks_FordRaptor_Dragon_codriver ,		 	 *,			800,	200
+        	Blacks_FordRaptor_Dragon_cargo1 ,			 *,			800,	200
+        	Blacks_FordRaptor_Dragon_cargo2,			 *,			800,	200
+        	Blacks_FordRaptor_Dragon_trunk,			 *,			800,	200
+        	Blacks_FordRaptor_Dragon_hood,			 *,			800,	200
+        	Blacks_FordRaptor_Dragon_Wheel,			 *,			800,	200
+
+		Blacks_FordRaptor_UnCiv,                  		VNK,      		800000,   80000
+		
+		Blacks_FordRaptor_UnCiv_driver ,			 *,			800,	200
+        	Blacks_FordRaptor_UnCiv_codriver ,	     		 *,			800,	200
+        	Blacks_FordRaptor_UnCiv_cargo1 ,			 *,			800,	200
+        	Blacks_FordRaptor_UnCiv_cargo2,			 *,			800,	200
+        	Blacks_FordRaptor_UnCiv_trunk,			 *,			800,	200
+        	Blacks_FordRaptor_UnCiv_hood,			     	 *,			800,	200
+        	Blacks_FordRaptor_UnCiv_Wheel,			 *,			800,	200
+
+		Blacks_FordRaptor_Solar,                  		VNK,      		800000,   80000
+		
+		Blacks_FordRaptor_Solar_driver ,			 *,			800,	200
+        	Blacks_FordRaptor_Solar_codriver ,		 	 *,			800,	200
+        	Blacks_FordRaptor_Solar_cargo1 ,			 *,			800,	200
+        	Blacks_FordRaptor_Solar_cargo2,			 *,			800,	200
+        	Blacks_FordRaptor_Solar_trunk,			 *,			800,	200
+        	Blacks_FordRaptor_Solar_hood,			     	 *,			800,	200
+        	Blacks_FordRaptor_Solar_Wheel,			 *,			800,	200
+
+		Blacks_FordRaptor_Arrow,                  		VNK,      		800000,   80000
+		
+		Blacks_FordRaptor_Arrow_driver ,			 *,			800,	200
+        	Blacks_FordRaptor_Arrow_codriver ,		 	 *,			800,	200
+        	Blacks_FordRaptor_Arrow_cargo1 ,			 *,			800,	200
+        	Blacks_FordRaptor_Arrow_cargo2,			 *,			800,	200
+        	Blacks_FordRaptor_Arrow_trunk,			 *,			800,	200
+        	Blacks_FordRaptor_Arrow_hood,			     	 *,			800,	200
+        	Blacks_FordRaptor_Arrow_Wheel,			 *,			800,	200
+
+		Blacks_FordRaptor_Lightning,                  	VNK,      		800000,   80000
+		
+		Blacks_FordRaptor_Lightning_driver ,		 	 *,			800,	200
+        	Blacks_FordRaptor_Lightning_codriver ,	 	 *,			800,	200
+        	Blacks_FordRaptor_Lightning_cargo1 ,		 	 *,			800,	200
+        	Blacks_FordRaptor_Lightning_cargo2,		 	 *,			800,	200
+        	Blacks_FordRaptor_Lightning_trunk,		 	 *,			800,	200
+        	Blacks_FordRaptor_Lightning_hood,			 *,			800,	200
+        	Blacks_FordRaptor_Lightning_Wheel,		 	 *,			800,	200
+
+		Blacks_FordRaptor_Swoosh,                  		VNK,      		800000,   80000
+		
+		Blacks_FordRaptor_Swoosh_driver ,			 *,			800,	200
+        	Blacks_FordRaptor_Swoosh_codriver ,		 	 *,			800,	200
+        	Blacks_FordRaptor_Swoosh_cargo1 ,			 *,			800,	200
+        	Blacks_FordRaptor_Swoosh_cargo2,			 *,			800,	200
+        	Blacks_FordRaptor_Swoosh_trunk,			 *,			800,	200
+        	Blacks_FordRaptor_Swoosh_hood,			 *,			800,	200

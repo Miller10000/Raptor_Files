@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<type name="EOM_RaptorWheels_Duals_Single">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="EOM_RaptorWheels_Duals_Dual">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="EOM_RaptorWheels_Mudder_Left">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="EOM_RaptorWheels_Mudder_Right">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="EOM_RaptorWheels_Mudder_Left_BlackRed">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="EOM_RaptorWheels_Mudder_Right_BlackRed">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="EOM_RaptorWheels_Mudder_Left_BlackGreen">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="EOM_RaptorWheels_Mudder_Right_BlackGreen">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="EOM_RaptorWheels_Mudder_Left_BlackBlue">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="EOM_RaptorWheels_Mudder_Right_BlackBlue">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="EOM_RaptorWheels_Mudder_Left_Black">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="EOM_RaptorWheels_Mudder_Right_Black">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderLeft_Camo40">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderRight_Camo40">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderLeft_Camo257">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderRight_Camo257">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderLeft_Camo000">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderRight_Camo000">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderLeft_Camo001">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderRight_Camo001">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderLeft_Camo002">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderRight_Camo002">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderLeft_Camo003">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderRight_Camo003">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderLeft_Camo004">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderRight_Camo004">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderLeft_Camo005">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderRight_Camo005">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderLeft_Camo006">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderRight_Camo006">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderLeft_Camo007">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderRight_Camo007">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderLeft_Camo008">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderRight_Camo008">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderLeft_Camo009">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderRight_Camo009">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderLeft_Camo010">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderRight_Camo010">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderLeft_Camo011">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderRight_Camo011">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderLeft_Camo012">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderRight_Camo012">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderLeft_Camo013">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderRight_Camo013">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderLeft_Arrow">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderRight_Arrow">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderLeft_Clawz">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderRight_Clawz">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderLeft_Dragon">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderRight_Dragon">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderLeft_Groot">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderRight_Groot">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderLeft_Groot2">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderRight_Groot2">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderLeft_Lightning">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderRight_Lightning">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderLeft_Solar">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderRight_Solar">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderLeft_Stand">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderRight_Stand">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderLeft_Swoosh">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderRight_Swoosh">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderLeft_Torn">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderRight_Torn">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderLeft_UnCiv">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Blacks_FordRaptor_MudderRight_UnCiv">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+</types>

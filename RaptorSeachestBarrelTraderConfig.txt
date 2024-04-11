@@ -1,0 +1,38 @@
+<Trader> Blacks Raptor Attachments	
+	<Category> Raptor SeaChest
+		Blacks_SeaChest_DBNRaptorBlack,                  	*,      8000,   2000
+		Blacks_SeaChest_DBNRaptor40,                  		*,      8000,   2000
+		Blacks_SeaChest_DBNRaptor257,                  		*,      8000,   2000
+		Blacks_SeaChest_DBNRaptor000,                  		*,      8000,   2000
+		Blacks_SeaChest_DBNRaptor001,                  		*,      8000,   2000
+		Blacks_SeaChest_DBNRaptor002,                  		*,      8000,   2000
+		Blacks_SeaChest_DBNRaptor003,                  		*,      8000,   2000
+		Blacks_SeaChest_DBNRaptor004,                  		*,      8000,   2000
+		Blacks_SeaChest_DBNRaptor005,                  		*,      8000,   2000
+		Blacks_SeaChest_DBNRaptor006,                  		*,      8000,   2000
+		Blacks_SeaChest_DBNRaptor007,                  		*,      8000,   2000
+		Blacks_SeaChest_DBNRaptor008,                  		*,      8000,   2000
+		Blacks_SeaChest_DBNRaptor009,                  		*,      8000,   2000
+		Blacks_SeaChest_DBNRaptor010,                  		*,      8000,   2000
+		Blacks_SeaChest_DBNRaptor011,                  		*,      8000,   2000
+		Blacks_SeaChest_DBNRaptor012,                  		*,      8000,   2000
+		Blacks_SeaChest_DBNRaptor013,                  		*,      8000,   2000
+
+	<Category> Raptor Barrel
+		Blacks_Barrel_DBNRaptorBlack,                  		*,      8000,   2000
+		Blacks_Barrel_DBNRaptor40,                  		*,      8000,   2000
+		Blacks_Barrel_DBNRaptor257,                  		*,      8000,   2000
+		Blacks_Barrel_DBNRaptor000,                  		*,      8000,   2000
+		Blacks_Barrel_DBNRaptor001,                  		*,      8000,   2000
+		Blacks_Barrel_DBNRaptor002,                  		*,      8000,   2000
+		Blacks_Barrel_DBNRaptor003,                  		*,      8000,   2000
+		Blacks_Barrel_DBNRaptor004,                  		*,      8000,   2000
+		Blacks_Barrel_DBNRaptor005,                  		*,      8000,   2000
+		Blacks_Barrel_DBNRaptor006,                  		*,      8000,   2000
+		Blacks_Barrel_DBNRaptor007,                  		*,      8000,   2000
+		Blacks_Barrel_DBNRaptor008,                  		*,      8000,   2000
+		Blacks_Barrel_DBNRaptor009,                  		*,      8000,   2000
+		Blacks_Barrel_DBNRaptor010,                  		*,      8000,   2000
+		Blacks_Barrel_DBNRaptor011,                  		*,      8000,   2000
+		Blacks_Barrel_DBNRaptor012,                  		*,      8000,   2000
+		Blacks_Barrel_DBNRaptor013,                  		*,      8000,   2000
